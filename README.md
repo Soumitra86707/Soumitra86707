@@ -61,13 +61,7 @@
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soumitra86707&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🧠 Snake Contribution Animation
 
@@ -91,13 +85,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soumitra86707&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
----
 
 ## 💡 Quote
 
