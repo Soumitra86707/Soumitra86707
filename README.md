@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumitra Halder</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Passionate+About+Scalable+Systems;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ## 🚀 About Me
 - 💻 Backend Developer at **Acetians Technologies Pvt. Ltd.**
 - 🎓 MCA @ **Pondicherry University**
-- ⚡ Focused on **Full Stack Development & Data Engineering**
-- 🧠 Love **Logic + Problem Solving**
+- ⚡ Passionate about **Full Stack & Data Engineering**
+- 🧠 Strong in **Logic + Problem Solving**
 - 🏸 Sports: Badminton & Basketball  
 
 ---
@@ -18,63 +18,61 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,react,nodejs,laravel,mysql,firebase,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,react,nodejs,laravel,mysql,firebase,html,css" />
 </p>
 
 ---
 
-## 💼 Experience
+## 🌐 Live Projects
 
-### 🔹 Backend Developer (Current)
-- Building scalable apps using **Laravel + React**
-- Optimizing performance & improving UX
-- Working on real-world production systems
-
-### 🔹 Web Developer Intern
-- Developed responsive applications
-- Hands-on with **React, PHP, Laravel**
-
----
-
-## 📌 Featured Projects
-
-### 🏥 Doctor’s Clinic Portal
-- 500+ patients/month
-- Lab system + appointment + analytics
-- Reduced admin work by 20 hrs/week
-
-### 📊 Online Attendance System
-- Managed 500+ students
-- Reduced manual work by 75%
-
-### 🛒 E-commerce Website
-- 1000+ orders handled
-- Secure payments + authentication
+<p align="center">
+  <a href="https://github.com/Soumitra86707/Cladent-App">
+    <img src="https://img.shields.io/badge/Doctor's%20Clinic%20Portal-Live-blue?style=for-the-badge&logo=react"/>
+  </a>
+  
+  <a href="https://github.com/Soumitra86707/attendance-system">
+    <img src="https://img.shields.io/badge/Attendance%20System-Project-green?style=for-the-badge&logo=php"/>
+  </a>
+  
+  <a href="https://github.com/Soumitra86707/ecommerce">
+    <img src="https://img.shields.io/badge/E--Commerce%20Website-Project-orange?style=for-the-badge&logo=javascript"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats (Including Private Repos 🔥)
+## 📊 GitHub Stats (Private Included 🔥)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soumitra86707&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumitra86707&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumitra86707&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumitra86707&theme=radical" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumitra86707&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Soumitra86707&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🧠 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumitra86707/Soumitra86707/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -93,6 +91,13 @@
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Soumitra86707&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
 
 ## 💡 Quote
 
