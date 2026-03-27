@@ -11,7 +11,6 @@
 - 🎓 MCA @ **Pondicherry University**
 - ⚡ Passionate about **Full Stack & Data Engineering**
 - 🧠 Strong in **Logic + Problem Solving**
-- 🏸 Sports: Badminton & Basketball  
 
 ---
 
